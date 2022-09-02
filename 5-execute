@@ -1,0 +1,3 @@
+#!/bin/bash
+
+chomd 500 hello
